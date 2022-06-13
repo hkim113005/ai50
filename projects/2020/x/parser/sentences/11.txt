@@ -1,0 +1,5 @@
+Holmes and his companion had a walk here on Thursday.
+N Conj Det N V Det N Adv P N
+NP Conj DetNP V DetNP Adv PP
+NP Conj DetNP VP Adv PP
+
